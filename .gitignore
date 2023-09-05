@@ -1,0 +1,22 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# visual studio
+**/.vs
+
+# api projects
+**/bin
+**/obj
+
+# services
+services/**/packages
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
